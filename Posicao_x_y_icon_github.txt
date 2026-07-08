@@ -1,3 +1,4 @@
+' Criado pelo Professor Felipe Aguiar/Dio
 Sub MoverIcone1ParaPosicao()
     Dim shp As Shape
     Dim ws As Worksheet
