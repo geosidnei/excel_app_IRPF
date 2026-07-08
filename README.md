@@ -1,17 +1,17 @@
 # excel_app_IRPF
 4 - Projeto: Criando um Organizador de Declaração de Imposto de Renda
 
-# Este Projeto da Dio me ajudou a aprender várias coisas, dentre elas:
+## Este Projeto da Dio me ajudou a aprender várias coisas, dentre elas:
+* Divertir-me com o bom humor do professor Felipe :D
 * transformar uma planilha Excel em um aplicativo com aparência e comportamento de página da internet com os botões e links!
 * usar código visual basic!
 * agrupar imagens!
 * bloquear células!
 * Usar cores complementares!
-* Divertir-me com o bom humor do professor Felipe
 * Trabalhar com UI/UX e mais...
 
 Veja as imagens que resumem um pouco da funcionalidade deste aplicativo.
-# Imagens:
+## Imagens:
 
 Planilha Titular:
 
@@ -30,18 +30,23 @@ Planilha com os créditos dos autores do aplicativo:
 ![4_5_cr%C3%A9ditos](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_5_cr%C3%A9ditos.png)
 
 link do Github sob foco:
+
 ![](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_6_link_github.png)
 
 link do Linkedin sob foco:
+
 ![4_6_link_github](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_7_link_linkedin.png)
 
 link Titular sob foco na planilha Titular:
+
 ![link_titular](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_titular.png)
 
 link Notas sob foco:
+
 ![link_notas](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_notas.png)
 
 E o link de um botão auxiliar sob foco:
+
 ![link_proximo](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_proximo.png)
 
 Códigos:
