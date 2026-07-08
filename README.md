@@ -30,15 +30,12 @@ Planilha com os créditos dos autores do aplicativo:
 ![4_5_cr%C3%A9ditos](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_5_cr%C3%A9ditos.png)
 
 link do Github sob foco:
-
 ![](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_6_link_github.png)
 
 link do Linkedin sob foco:
-
 ![4_6_link_github](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_7_link_linkedin.png)
 
 link Titular sob foco na planilha Titular:
-
 ![link_titular](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_titular.png)
 
 link Notas sob foco:
@@ -49,11 +46,20 @@ E o link de um botão auxiliar sob foco:
 
 ![link_proximo](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_proximo.png)
 
-Códigos:
+## Códigos:
 A planilha Excel: 
 https://github.com/geosidnei/excel_app_IRPF/blob/main/4%20app%20do%20IR.xlsx
 
 Códigos VBA para posições X e Y dos ícones:
-github:    https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_github.txt
-linkedin:  https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_linkedin.txt
+github:    
+https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_github.txt
 
+linkedin:  
+https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_linkedin.txt
+
+## Este Projeto do Excel instalado localmente me incentivou a buscar aprender várias outras coisas, dentre elas:
+* Torná-lo totalmente funcional no Excel Online;
+* Torná-lo totalmente funcional no Google Planilhas.
+* Fazer uma ferramenta completa para auxiliar as pessoas com suas declarações do imposto de renda:
+  a) modelo completo ("fichas azuis");
+  b) modelo simplificado - desconto padrão (fichas "verdes").
