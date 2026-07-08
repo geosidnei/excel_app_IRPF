@@ -66,5 +66,5 @@ https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_linkedin.
 * Torná-lo totalmente funcional no Excel Online;
 * Torná-lo totalmente funcional no Google Planilhas.
 * Fazer uma ferramenta completa para auxiliar as pessoas com suas declarações do imposto de renda:
-  a) modelo completo ("fichas azuis");
-  b) modelo simplificado - desconto padrão (fichas "verdes").
+  * a) modelo completo ("fichas azuis");
+  * b) modelo simplificado - desconto padrão (fichas "verdes").
