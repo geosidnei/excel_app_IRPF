@@ -54,6 +54,7 @@ A planilha Excel:
 https://github.com/geosidnei/excel_app_IRPF/blob/main/4%20app%20do%20IR.xlsx
 
 Códigos VBA para posições X e Y dos ícones:
+
 github:    
 
 https://github.com/geosidnei/excel_app_IRPF/blob/main/Posicao_x_y_icon_github.txt
