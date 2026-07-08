@@ -1,37 +1,48 @@
 # excel_app_IRPF
 4 - Projeto: Criando um Organizador de Declaração de Imposto de Renda
 
-imagens:
+# Este Projeto da Dio me ajudou a aprender várias coisas, dentre elas:
+* transformar uma planilha Excel em um aplicativo com aparência e comportamento de página da internet com os botões e links!
+* usar código visual basic!
+* agrupar imagens!
+* bloquear células!
+* Usar cores complementares!
+* Divertir-me com o bom humor do professor Felipe
+* Trabalhar com UI/UX e mais...
+
+Veja as imagens que resumem um pouco da funcionalidade deste aplicativo.
+# Imagens:
 
 Planilha Titular:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_1_titular.png
+
+![4_1_titular](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_1_titular.png)
 
 Planilha Informes:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_2_informes.png
+![4_2_informes](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_2_informes.png)
 
 Planilha Notas:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_3_notas.png
+![4_3_notas](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_3_notas.png)
 
 Planilha com os códigos dos bancos brasileiros na Receita Federal do Brasil:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_4_codigos_bancos.png
+![4_4_codigos_bancos](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_4_codigos_bancos.png)
 
 Planilha com os créditos dos autores do aplicativo:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_5_cr%C3%A9ditos.png
+![4_5_cr%C3%A9ditos](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_5_cr%C3%A9ditos.png)
 
 link do Github sob foco:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_6_link_github.png
+![](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_6_link_github.png)
 
 link do Linkedin sob foco:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/4_7_link_linkedin.png
+![4_6_link_github](https://github.com/geosidnei/excel_app_IRPF/blob/main/4_7_link_linkedin.png)
 
 link Titular sob foco na planilha Titular:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/link_titular.png
+![link_titular](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_titular.png)
 
 link Notas sob foco:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/link_notas.png
+![link_notas](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_notas.png)
 
 E o link de um botão auxiliar sob foco:
-https://github.com/geosidnei/excel_app_IRPF/blob/main/link_proximo.png
+![link_proximo](https://github.com/geosidnei/excel_app_IRPF/blob/main/link_proximo.png)
 
 Códigos:
 A planilha Excel: 
